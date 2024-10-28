@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,18 +51,6 @@
       "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\views\\homeaccess\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|c:\\users\\orewa\\desktop\\test\\th\\th\\th\\controllers\\homeaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51FBF9EF-8A03-4F07-928E-236BB99B8C54}|TH\\TH.csproj|solutionrelative:th\\controllers\\homeaccesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,19 +71,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "TH\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Models\\Product.cs*",
-              "RelativeToolTip": "TH\\Models\\Product.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T10:13:33.752Z",
+              "Title": "ThemSanPhamMoi.cshtml",
+              "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ToolTip": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeToolTip": "TH\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T13:34:48.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SuaSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ToolTip": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeToolTip": "TH\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T13:34:47.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "TH\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T13:34:10.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TH\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Models\\Product.cs",
+              "RelativeToolTip": "TH\\Models\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:13:33.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProInfo.cshtml",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Views\\Home\\ProInfo.cshtml",
               "RelativeDocumentMoniker": "TH\\Views\\Home\\ProInfo.cshtml",
@@ -79,12 +127,11 @@
               "RelativeToolTip": "TH\\Views\\Home\\ProInfo.cshtml",
               "ViewState": "AgIAABAAAAAAAAAAAAAiwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:54:01.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:54:01.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
               "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
@@ -92,12 +139,11 @@
               "RelativeToolTip": "TH\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:52:13.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:52:13.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Views\\HomeAccess\\Register.cshtml",
               "RelativeDocumentMoniker": "TH\\Views\\HomeAccess\\Register.cshtml",
@@ -105,12 +151,11 @@
               "RelativeToolTip": "TH\\Views\\HomeAccess\\Register.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAmwDQAAACMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:16:31.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:16:31.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TH\\Views\\Shared\\_Layout.cshtml",
@@ -118,12 +163,11 @@
               "RelativeToolTip": "TH\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:11:07.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:11:07.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TH\\Views\\Home\\Index.cshtml",
@@ -131,12 +175,11 @@
               "RelativeToolTip": "TH\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:08:51.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:08:51.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Views\\HomeAccess\\Login.cshtml",
               "RelativeDocumentMoniker": "TH\\Views\\HomeAccess\\Login.cshtml",
@@ -144,25 +187,23 @@
               "RelativeToolTip": "TH\\Views\\HomeAccess\\Login.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAACNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T09:04:17.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:04:17.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "HomeAdminController.cs",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "ToolTip": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "RelativeToolTip": "TH\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:03:05.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:03:05.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "TH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
@@ -170,12 +211,11 @@
               "RelativeToolTip": "TH\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-28T08:59:28.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T08:59:28.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "HomeAccessController.cs",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Controllers\\HomeAccessController.cs",
               "RelativeDocumentMoniker": "TH\\Controllers\\HomeAccessController.cs",
@@ -183,12 +223,11 @@
               "RelativeToolTip": "TH\\Controllers\\HomeAccessController.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAgwAYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:56:56.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T08:56:56.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Account.cs",
               "DocumentMoniker": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\Models\\Account.cs",
               "RelativeDocumentMoniker": "TH\\Models\\Account.cs",
@@ -196,8 +235,7 @@
               "RelativeToolTip": "TH\\Models\\Account.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:24:24.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T09:24:24.717Z"
             }
           ]
         }

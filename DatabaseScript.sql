@@ -8,7 +8,7 @@ GO
 CREATE TABLE Account (
     username NVARCHAR(50) PRIMARY KEY,
     password NVARCHAR(50) NOT NULL,
-    role INT DEFAULT 1
+    role NVARCHAR(10) DEFAULT '1'
 );
 
 
