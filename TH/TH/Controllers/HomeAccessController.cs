@@ -56,7 +56,7 @@ namespace TH.Controllers
                     return View(acc);
                 }
 
-                
+                acc.Role = "1";
                 db.Accounts.Add(acc);
                 db.SaveChanges();
 

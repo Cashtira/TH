@@ -981,6 +981,10 @@
       "PackagePath": "staticwebassets\\Layout\\js\\owl.carousel.min.js"
     },
     {
+      "Id": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\ProductImg\\GIGACHAD.png",
+      "PackagePath": "staticwebassets\\ProductImg\\GIGACHAD.png"
+    },
+    {
       "Id": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\ProductImg\\PRO01.PNG",
       "PackagePath": "staticwebassets\\ProductImg\\PRO01.PNG"
     },
@@ -1019,6 +1023,10 @@
     {
       "Id": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\ProductImg\\PRO10.png",
       "PackagePath": "staticwebassets\\ProductImg\\PRO10.png"
+    },
+    {
+      "Id": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\ProductImg\\SIGMA.png",
+      "PackagePath": "staticwebassets\\ProductImg\\SIGMA.png"
     },
     {
       "Id": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\css\\site.css",

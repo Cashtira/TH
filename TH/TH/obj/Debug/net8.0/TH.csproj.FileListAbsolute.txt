@@ -256,3 +256,4 @@ C:\Users\orewa\Desktop\Test\TH\TH\TH\bin\Debug\net8.0\runtimes\win\lib\net7.0\Mi
 C:\Users\orewa\Desktop\Test\TH\TH\TH\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\orewa\Desktop\Test\TH\TH\TH\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\orewa\Desktop\Test\TH\TH\TH\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\orewa\Desktop\Test\TH\TH\TH\obj\Debug\net8.0\TH.sourcelink.json

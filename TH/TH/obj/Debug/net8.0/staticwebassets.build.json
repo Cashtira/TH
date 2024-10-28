@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Wo8hsB2uuaCJ3DtYHMh+M1DLa3XtCSymjNIJZs3y1iw=",
+  "Hash": "cNTXk4indROHakOTXFxcJjhpu6o7ZKZ/zbOc4ADUunA=",
   "Source": "TH",
   "BasePath": "_content/TH",
   "Mode": "Default",
@@ -5831,6 +5831,25 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
+      "Identity": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\ProductImg\\GIGACHAD.png",
+      "SourceId": "TH",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\",
+      "BasePath": "_content/TH",
+      "RelativePath": "ProductImg/GIGACHAD.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImg\\GIGACHAD.png"
+    },
+    {
       "Identity": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\ProductImg\\PRO01.PNG",
       "SourceId": "TH",
       "SourceType": "Discovered",
@@ -6019,6 +6038,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ProductImg\\PRO10.png"
+    },
+    {
+      "Identity": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\ProductImg\\SIGMA.png",
+      "SourceId": "TH",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\orewa\\Desktop\\Test\\TH\\TH\\TH\\wwwroot\\",
+      "BasePath": "_content/TH",
+      "RelativePath": "ProductImg/SIGMA.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ProductImg\\SIGMA.png"
     }
   ]
 }
